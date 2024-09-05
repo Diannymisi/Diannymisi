@@ -5,7 +5,7 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=diannymisi.diannymisi&color=00cf00" alt=""/>
 <div align="center">
   
-  <h1>Hola, soy Dianny. ¡Encantada de conocerte! 👋</strong></h1>
+<h1>Hola, soy Dianny. ¡Encantada de conocerte! 👋</strong></h1>
 </div>
 Sobre mí:
 
