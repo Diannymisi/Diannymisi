@@ -13,11 +13,13 @@
 
 * :telescope: Actualmente estoy estudiando y practicando 💻 automatización de pruebas usando SQL, PostgreSQL y Python con Selenium. Busco nuevos retos  :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy mejorando activamente mis habilidades de automatización, trabajando en proyectos con Python y Selenium, usando bibliotecas Pytest y Requests, así como pruebas de API con Postman y REST, y pruebas móviles con Android Studio 🤓
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me apasiona detectar y resolver problemas complejos🔧, asegurándome de que cada proyecto de software en el que participo cumpla con los más altos estándares de calidad. Soy reconocida por mi atención al detalle, mi enfoque analítico y mi habilidad para mantener la calma incluso en situaciones de mucha presión. Mi compromiso es siempre entregar un producto final impecable, optimizando cada proceso y superando expectativas 🎯
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* 😁 Me encanta asumir el rol de 'arqueóloga del software,' al estilo Indiana Jones, desenterrando errores y problemas ocultos que otros no ven. Con el mismo enfoque meticuloso que utilizo como escritora y editora, pero en un nuevo lenguaje: el código. Exploro cada rincón 🔎 para asegurar que el producto final sea impecable. La búsqueda de bugs y fallos 🐛 es para mí tan creativa y desafiante como como la escritura, descubrir antiguos tesoros o la edición: se trata de encontrar esas piezas ocultas que hacen la diferencia, se trata de buscar perfección en cada detalle.
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
 
 
 <!--
