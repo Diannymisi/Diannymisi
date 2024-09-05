@@ -11,7 +11,8 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada por la tecnología y disfrutando de una transición laboral al interesante mundo de pruebas de calidad de software. Con una trayectoria diversa que me ha permitido desarrollar un enfoque único y crítico hacia el trabajo que realizo. Desde el mundo de las letras, la fotografía y la edición, hasta el universo del desarrollo tecnológico, he encontrado en la automatización de pruebas mi nueva forma de contar historias: buscando errores, afinando detalles y asegurándome de que cada proyecto sea lo más sólido posible.
+
+<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada por la tecnología y disfrutando de una transición laboral al interesante mundo de pruebas de calidad de software. Cuento con una trayectoria diversa que me ha permitido desarrollar un enfoque único y crítico hacia el trabajo que realizo. Desde el mundo de las letras, la fotografía y la edición, hasta el universo del desarrollo tecnológico, he encontrado en la automatización de pruebas mi nueva forma de contar historias: buscando errores, afinando detalles y asegurándome de que cada proyecto sea lo más sólido posible.
 
 Como alguien que disfruta tanto de las artes como de la tecnología, veo el proceso de debugging como una forma de narrar y resolver problemas. Al igual que un editor mejora una historia palabra por palabra, mi objetivo es mejorar el software, línea a línea, buscando los detalles que marcan la diferencia.
 
