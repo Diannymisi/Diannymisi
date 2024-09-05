@@ -11,7 +11,9 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada de la tecnología y disfrutando de una transición laboral al importante campo de pruebas de calidad de software.
+<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada por la tecnología y disfrutando de una transición laboral al interesante mundo de pruebas de calidad de software. Con una trayectoria diversa que me ha permitido desarrollar un enfoque único y crítico hacia el trabajo que realizo. Desde el mundo de las letras, la fotografía y la edición, hasta el universo del desarrollo tecnológico, he encontrado en la automatización de pruebas mi nueva forma de contar historias: buscando errores, afinando detalles y asegurándome de que cada proyecto sea lo más sólido posible.
+
+Como alguien que disfruta tanto de las artes como de la tecnología, veo el proceso de debugging como una forma de narrar y resolver problemas. Al igual que un editor mejora una historia palabra por palabra, mi objetivo es mejorar el software, línea a línea, buscando los detalles que marcan la diferencia.
 
 * :telescope: Actualmente estoy estudiando y practicando 💻 automatización de pruebas usando SQL, PostgreSQL y Python con Selenium. Busco nuevos retos  :muscle:
 
@@ -21,7 +23,7 @@
 
 * 😁 Me encanta asumir el rol de 'arqueóloga del software,' al estilo Indiana Jones, desenterrando errores y problemas ocultos que otros no ven. Con el mismo enfoque meticuloso que utilizo como escritora y editora, pero en un nuevo lenguaje: el código. Exploro cada rincón 🔎 para asegurar que el producto final sea impecable. La búsqueda de bugs y fallos 🐛 es para mí tan creativa y desafiante como como la escritura, la edición o descubrir viejos tesoros: se trata de encontrar esas piezas ocultas que hacen la diferencia, se trata de buscar presición en cada detalle.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Dianny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
+* 🚀 ¡Conectemos! [![Linkedin Badge](https://img.shields.io/badge/-Dianny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
