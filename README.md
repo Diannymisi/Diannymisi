@@ -19,7 +19,7 @@
 
 * 😁 Me encanta asumir el rol de 'arqueóloga del software,' al estilo Indiana Jones, desenterrando errores y problemas ocultos que otros no ven. Con el mismo enfoque meticuloso que utilizo como escritora y editora, pero en un nuevo lenguaje: el código. Exploro cada rincón 🔎 para asegurar que el producto final sea impecable. La búsqueda de bugs y fallos 🐛 es para mí tan creativa y desafiante como como la escritura, la edición o descubrir viejos tesoros: se trata de encontrar esas piezas ocultas que hacen la diferencia, se trata de buscar presición en cada detalle.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Dianny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
