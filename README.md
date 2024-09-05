@@ -6,7 +6,7 @@
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=#f6e2a3)
+![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=yellow)
 
  <div id="header" align="left">
 
