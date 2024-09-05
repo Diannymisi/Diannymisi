@@ -1,4 +1,4 @@
-![Banner](https://github.com/Diannymisi/Diannymisi/blob/main/readme_header.png.jpg?raw=true)
+![Banner](https://github.com/Diannymisi/Diannymisi/blob/main/readmee_header.png.jpg?raw=true)
 
 <div align="center">
   <h1>Hola, soy Dianny. ¡Encantada de conocerte! 👋</strong></h1>
