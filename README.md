@@ -41,11 +41,13 @@
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
+<div align="center">
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diannymisi&show_icons=true&theme=tokyonight)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diannymisi&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=diannymisi&theme=tokyonight)
+</div>
 
 
 
