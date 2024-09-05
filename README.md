@@ -3,6 +3,7 @@
 <div align="center">
   <h1>Hola, soy Dianny. ¡Encantada de conocerte! 👋</strong></h1>
 </div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
 
 <!--
 **Diannymisi/Diannymisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
