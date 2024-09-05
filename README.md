@@ -45,6 +45,12 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=cobalt)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tdiannymisi&theme=cobalt)
+
+![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=blue)
+
+
+
 
 
 <!--
