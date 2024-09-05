@@ -9,8 +9,9 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada de la tecnología y disfrutando de una transición laboral al Quality Assurance.
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada de la tecnología y disfrutando de una transición laboral al importante campo de pruebas de calidad de software.
+
+* :telescope: Actualmente estoy estudiando y practicando 💻 automatización de pruebas usando SQL, PostgreSQL y Python con Selenium. Busco nuevos retos  :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
