@@ -6,7 +6,7 @@
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=pink)
 
  <div id="header" align="left">
 
@@ -41,13 +41,16 @@
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diannymisi&show_icons=true&theme=cobalt)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diannymisi&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diannymisi&layout=compact&theme=cobalt)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diannymisi&layout=compact&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=cobalt)
+![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=diannymisi&theme=cobalt)
+![GitHub Streak](https://streak-stats.demolab.com/?user=diannymisi&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diannymisi&theme=github)
+
 
 
 
