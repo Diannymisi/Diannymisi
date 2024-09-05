@@ -39,11 +39,11 @@
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diannymisi&show_icons=true&theme=merko)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=diannymisi&show_icons=true&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diannymisi&layout=compact&theme=merko)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=diannymisi&layout=compact&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=merko)
+![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=dark)
 
 
 
