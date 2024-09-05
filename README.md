@@ -24,10 +24,11 @@ Como alguien que disfruta tanto de las artes como de la tecnología, veo el proc
 
 * 😁 Me encanta asumir el rol de 'arqueóloga del software,' al estilo Indiana Jones, desenterrando errores y problemas ocultos que otros no ven. Con el mismo enfoque meticuloso que utilizo como escritora y editora, pero en un nuevo lenguaje: el código. Exploro cada rincón 🔎 para asegurar que el producto final sea impecable. La búsqueda de bugs y fallos 🐛 es para mí tan creativa y desafiante como como la escritura, la edición o descubrir viejos tesoros: se trata de encontrar esas piezas ocultas que hacen la diferencia, se trata de buscar presición en cada detalle.
 
-  📚 Lo que me define:
-Pensamiento crítico y atención al detalle: Mi experiencia como escritora y editora me ha dado un ojo agudo para identificar problemas, ya sea en un texto o en código.
-Creatividad aplicada a la tecnología: Mi formación en artes me permite abordar problemas técnicos de una manera innovadora y fuera de lo común.
-Pasión por la calidad: No solo encuentro errores, sino que disfruto diseñando soluciones que mejoren el producto final.
+  ### 📚 Lo que me define :
+
+* 💡 Pensamiento crítico y atención al detalle: Mi experiencia como escritora y editora me ha dado un ojo agudo para identificar problemas, ya sea en un texto o en código.
+* 🎨 Creatividad aplicada a la tecnología: Mi formación en artes me permite abordar problemas técnicos de una manera innovadora y fuera de lo común.
+* 💌 Pasión por la calidad: No solo encuentro errores, sino que disfruto diseñando soluciones que mejoren el producto final.
 
 * 🚀 ¡Conectemos! [![Linkedin Badge](https://img.shields.io/badge/-Dianny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dianny-silva/)
 ---
