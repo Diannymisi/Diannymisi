@@ -6,7 +6,7 @@
     <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=#f6e2a3)
 
  <div id="header" align="left">
 
@@ -47,9 +47,9 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=diannymisi&theme=cobalt)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tdiannymisi&theme=cobalt)
+![GitHub Streak](https://streak-stats.demolab.com/?user=diannymisi&theme=cobalt)
 
-![Profile Views](https://komarev.com/ghpvc/?username=diannymisi&color=blue)
+
 
 
 
