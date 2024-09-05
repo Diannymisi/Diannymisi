@@ -9,7 +9,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Apasionada de la tecnología y disfrutando de una transición laboral al Quality Assurance <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Apasionada de la tecnología y disfrutando de una transición laboral al Quality Assurance 
 
 
 <!--
